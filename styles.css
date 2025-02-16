@@ -1,0 +1,16 @@
+body {
+  background-color: #ffebcd;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 10px;
+  color: brown;
+  font-weight: bold;
+}
+
+img {
+  size-adjust: 400px;
+}
