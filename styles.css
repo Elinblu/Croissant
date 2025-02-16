@@ -1,5 +1,5 @@
 body {
-  background-color: #ffebcd;
+  background-color: lightgoldenrodyellow;
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -9,8 +9,4 @@ nav a {
   margin: 10px;
   color: brown;
   font-weight: bold;
-}
-
-img {
-  size-adjust: 400px;
 }
